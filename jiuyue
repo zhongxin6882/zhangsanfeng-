@@ -1,0 +1,7 @@
+echo "# zhangsanfeng-" >> README.md 
+git init 
+git add README.md 
+git commit -m "提交第一次" 
+git路径 -M main 
+git 远程add origin https://github.com/zhongxin6882/zhangsanfeng-. git
+ git Push -u 原点主要
